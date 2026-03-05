@@ -1,0 +1,9 @@
+Your computer (code)
+        ↓
+npm run build
+        ↓
+firebase deploy
+        ↓
+Live website updates
+
+-Every time you deploy, Firebase replaces the old version with the new one.
